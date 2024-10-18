@@ -15,7 +15,7 @@
 </div>
 </div>
 <div>
-    <img src="http://servicosweb.cnpq.br/wspessoa/servletrecuperafoto?tipo=1&id=K4737526Z6" width="300">
+    <img src="http://servicosweb.cnpq.br/wspessoa/servletrecuperafoto?tipo=1&id=K4737526Z6" width="150">
 </div>
 </section>
 <h2>Daniel dos Santos Júnior</h2>
@@ -138,7 +138,7 @@
 </div>
 </div>
 <div>
-    <img src="http://servicosweb.cnpq.br/wspessoa/servletrecuperafoto?tipo=1&amp;id=K4701151P7" width="300">
+    <img src="http://servicosweb.cnpq.br/wspessoa/servletrecuperafoto?tipo=1&amp;id=K4701151P7" width="150">
 </div>
 </section>
 <h2>Naylor Garcia Bachiega</h2>
