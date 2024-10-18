@@ -1,18 +1,18 @@
 <h1 style="text-align: center">Quadro Docente Técnico em Informática para Internet</h1>
 
 <h2>Adamo Dal Berto</h2>
-<section style="display: flex; justify-content: space-between">
+<section style="display: flex; justify-content: space-between; width: 100vw;">
 <div>
-<p style="line-height: 10px">🧑‍🎓 <b>Graduação</b>:  bacharelado em Informática </p>
-<p style="line-height: 10px">📕 <b>Ultima Formação</b>: mestrado em Ciências da Computação</p>
-<p  style="line-height: 10px">📧 <b>Email</b>: <a href="adamo.dalberto@ifc.edu.br">adamo.dalberto@ifc.edu.br</a></p>
-<p >📚 <b>Áreas de pesquisa</b>: Software Básico, Redes de Computadores, Segurança em Redes de computadores, serviços de redes de computadores, plataformas de hardware abertas, Internet das Coisas - IoT, processos ensino-aprendizagem, e agricultura e pecuária de precisão.</p>
-<p style="line-height: 1px">📌 <b>Disciplinas que ministra</b>: Redes de Computadores</p>
-<div style="display: flex; gap: 20px">
-<div style="display: flex; align-items: center; ">
-    <a href="http://lattes.cnpq.br/8484066168845222" style="cursor: pointer;"><img src="../files/lattes.svg"></a>
-</div>
-</div>
+    <p style="line-height: 10px">🧑‍🎓 <b>Graduação</b>:  bacharelado em Informática </p>
+    <p style="line-height: 10px">📕 <b>Ultima Formação</b>: mestrado em Ciências da Computação</p>
+    <p  style="line-height: 10px">📧 <b>Email</b>: <a href="adamo.dalberto@ifc.edu.br">adamo.dalberto@ifc.edu.br</a></p>
+    <p >📚 <b>Áreas de pesquisa</b>: Software Básico, Redes de Computadores, Segurança em Redes de computadores, serviços de redes de computadores, plataformas de hardware abertas, Internet das Coisas - IoT, processos ensino-aprendizagem, e agricultura e pecuária de precisão.</p>
+    <p style="line-height: 1px">📌 <b>Disciplinas que ministra</b>: Redes de Computadores</p>
+    <div style="display: flex; gap: 20px">
+        <div style="display: flex; align-items: center; ">
+            <a href="http://lattes.cnpq.br/8484066168845222" style="cursor: pointer;"><img src="../files/lattes.svg"></a>
+        </div>
+    </div>
 </div>
 <div>
     <img src="http://servicosweb.cnpq.br/wspessoa/servletrecuperafoto?tipo=1&id=K4737526Z6" width="150">
