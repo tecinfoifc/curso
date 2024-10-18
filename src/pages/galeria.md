@@ -1,0 +1,1 @@
+ainda não há fotos cadastradas na galeria
