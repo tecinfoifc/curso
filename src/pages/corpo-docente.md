@@ -2,6 +2,7 @@
 
 ## Adamo Dal Berto
 <section style="display: flex; justify-content: space-between; gap: 20px" id="ADB">
+<img src="http://servicosweb.cnpq.br/wspessoa/servletrecuperafoto?tipo=1&id=K4737526Z6" align="right" width="150">
 <div>
 
 🧑‍🎓 **Graduação**: bacharelado em Informática  
@@ -11,15 +12,11 @@
 📌 **Disciplinas que ministra**: Redes de Computadores  
 [![Lattes](../files/lattes.svg)](http://lattes.cnpq.br/8484066168845222) 
 </div>
-
-<div>
-    <img src="http://servicosweb.cnpq.br/wspessoa/servletrecuperafoto?tipo=1&id=K4737526Z6" width="150">
-</div>
-
 </section>
 
 ## Daniel dos Santos Júnior
 <section style="display: flex; justify-content: space-between; gap: 20px">
+<img src="http://servicosweb.cnpq.br/wspessoa/servletrecuperafoto?tipo=1&id=K4711625Z6" align="right" width="150">
 <div id="DSJ">
 
 🧑‍🎓 **Graduação**: Bacharel em Ciência da Computação  
@@ -30,15 +27,11 @@
 
 [![Lattes](../files/lattes.svg)](http://lattes.cnpq.br/7604028345371639) 
 </div>
-
-<div>
-    <img src="http://servicosweb.cnpq.br/wspessoa/servletrecuperafoto?tipo=1&id=K4711625Z6" width="150">
-</div>
-
 </section>
 
 ## Eduardo da Silva
 <section style="display: flex; justify-content: space-between; gap: 20px" id="ES">
+<img src="http://servicosweb.cnpq.br/wspessoa/servletrecuperafoto?tipo=1&id=K4756577H3" align="right" width="150">
 <div >
 
 🧑‍🎓 **Graduação**: Bacharelado em Ciência da Computação  
@@ -50,15 +43,11 @@
 [![Lattes](../files/lattes.svg)](http://lattes.cnpq.br/5027650522905837) 
 [![GitHub](../files/github.svg)](https://github.com/eduardo-da-silva)
 </div>
-
-<div>
-    <img src="http://servicosweb.cnpq.br/wspessoa/servletrecuperafoto?tipo=1&id=K4756577H3" width="150">
-</div>
-
 </section>
 
 ## Fábio Longo de Moura
 <section style="display: flex; justify-content: space-between; gap: 20px" id="FLM">
+<img src="http://servicosweb.cnpq.br/wspessoa/servletrecuperafoto?tipo=1&id=K4444101J8" align="right" width="150">
 <div >
 
 🧑‍🎓 **Graduação**: bacharelado em Sistema da Informação  
@@ -70,15 +59,11 @@
 [![Lattes](../files/lattes.svg)](http://lattes.cnpq.br/9596158681950482) 
 [![GitHub](../files/github.svg)](https://github.com/ldmfabio)
 </div>
-
-<div>
-    <img src="http://servicosweb.cnpq.br/wspessoa/servletrecuperafoto?tipo=1&id=K4444101J8" width="150">
-</div>
-
 </section>
 
 ## Kennedy Ferreira Araújo
 <section style="display: flex; justify-content: space-between; gap: 20px" id="KFA">
+<img src="http://servicosweb.cnpq.br/wspessoa/servletrecuperafoto?tipo=1&id=K8715398H6" align="right" width="150">
 <div>
 
 🧑‍🎓 **Graduação**: Bacharelado em Sistema da Informação  
@@ -89,15 +74,11 @@
 
 [![Lattes](../files/lattes.svg)](http://lattes.cnpq.br/9669258330557293) 
 </div>
-
-<div>
-    <img src="http://servicosweb.cnpq.br/wspessoa/servletrecuperafoto?tipo=1&id=K8715398H6" width="150">
-</div>
-
 </section>
 
 ## Marco André Lopes Mendes
 <section style="display: flex; justify-content: space-between; gap: 20px" id="MALM">
+<img src="http://servicosweb.cnpq.br/wspessoa/servletrecuperafoto?tipo=1&id=K4706940T1" align="right" width="150">
 <div>
 
 🧑‍🎓 **Graduação**: Tecnologia Em Processamento de Dados  
@@ -109,15 +90,11 @@
 [![Lattes](../files/lattes.svg)](http://lattes.cnpq.br/6726037692480363) 
 [![GitHub](../files/github.svg)](https://github.com/marrcandre)
 </div>
-
-<div>
-    <img src="http://servicosweb.cnpq.br/wspessoa/servletrecuperafoto?tipo=1&id=K4706940T1" width="150">
-</div>
-
 </section>
 
 ## Marco Antonio Torrez Rojas
 <section style="display: flex; justify-content: space-between; gap: 20px" id="MATR">
+<img src="https://media.licdn.com/dms/image/v2/C5603AQH90NqOpDvy4Q/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1516521557239?e=1732752000&v=beta&t=qUTwHtcMejtRntgB3M4Ge4lywv_Fn8QgC6zbHcUSr6A" align="right" width="150">
 <div>
 
 🧑‍🎓 **Graduação**: Graduação em Matemática (Bacharelado e Licenciatura) e Análise e Desenvolvimento de Sistemas  
@@ -128,11 +105,6 @@
 
 [![Lattes](../files/lattes.svg)](http://lattes.cnpq.br/7332212563888239) 
 </div>
-
-<div>
-    <img src="https://media.licdn.com/dms/image/v2/C5603AQH90NqOpDvy4Q/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1516521557239?e=1732752000&v=beta&t=qUTwHtcMejtRntgB3M4Ge4lywv_Fn8QgC6zbHcUSr6A" width="150">
-</div>
-
 </section>
 
 
@@ -154,6 +126,7 @@
 
 ## Naylor Garcia Bachiega
 <section style="display: flex;justify-content: space-between; gap: 20px" id="NB">
+<img src="http://servicosweb.cnpq.br/wspessoa/servletrecuperafoto?tipo=1&amp;id=K4563009U6" align="right" width="150">
 <div>
 
 🧑‍🎓 **Graduação**: doutorado/mestrado em ciência da computação  
@@ -165,10 +138,4 @@
 [![Lattes](../files/lattes.svg)](http://lattes.cnpq.br/4151321913850263) 
 [![GitHub](../files/github.svg)](https://github.com/naylor)
 </div>
-
-
-<div>
-    <img src="http://servicosweb.cnpq.br/wspessoa/servletrecuperafoto?tipo=1&amp;id=K4563009U6" width="150">
-</div>
-
 </section>
