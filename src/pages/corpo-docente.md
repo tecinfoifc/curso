@@ -138,6 +138,7 @@
 
 ## Mehran Misaghi
 <section style="display: flex; justify-content: space-between; gap: 20px" id="MM">
+<img src="http://servicosweb.cnpq.br/wspessoa/servletrecuperafoto?tipo=1&id=K4701151P7" align="right" width="150">
 <div>
 
 🧑‍🎓 **Graduação**: bacharelado em Análise de Sistemas  
@@ -149,11 +150,6 @@
 [![Lattes](../files/lattes.svg)](http://lattes.cnpq.br/7384745307950075) 
 [![GitHub](../files/github.svg)](https://github.com/mmisaghi)
 </div>
-
-<div>
-    <img src="http://servicosweb.cnpq.br/wspessoa/servletrecuperafoto?tipo=1&id=K4701151P7" align="right" width="150">
-</div>
-
 </section>
 
 ## Naylor Garcia Bachiega
