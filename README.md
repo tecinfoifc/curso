@@ -41,6 +41,9 @@
         <a href="#ingresso">Página do ingresso</a>
     </li>
     <li>
+        <a href="#calendario">Calendário</a>
+    </li>
+    <li>
         <a href="#eventos">Eventos</a>
     </li>
     <li>
@@ -85,41 +88,41 @@
     <th>Disciplinas ministradas</th>
   </tr>
     <tr>
-    <td><a href=""> Adamo Dal Berto</a></td>
-    <td><a href="">Redes de computadores</a></td>
+    <td><a href="./src/pages/corpo-docente.md/#ADB"> Adamo Dal Berto</a></td>
+    <td><a href="./src/pages/ementa.md/#RC">Redes de computadores</a></td>
   </tr>
     <tr>
-    <td><a href="">Daniel dos Santos Júnior</a></td>
-    <td><a href="">Introdução a computação</a>, <a href="">Banco de dados</a></td>
+    <td><a href="./src/pages/corpo-docente.md/#DSJ">Daniel dos Santos Júnior</a></td>
+    <td><a href="./src/pages/ementa.md/#IC">Introdução a computação</a>, <a href="./src/pages/ementa.md/#BD">Banco de dados</a></td>
   </tr>
     <tr>
-    <td><a href="">Eduardo da Silva</a></td>
-    <td><a href="">Desenvolvimento web II</a>, <a href="">Desenvolvimento para dispositiveis móveis</a></td>
+    <td><a href="./src/pages/corpo-docente.md/#ES">Eduardo da Silva</a></td>
+    <td><a href="./src/pages/ementa.md/#DWII">Desenvolvimento web II</a>, <a href="./src/pages/ementa.md/#DDM">Desenvolvimento para dispositiveis móveis</a></td>
   </tr>
 <tr>
-    <td><a href="">Fábio Longo de Moura</a></td>
-    <td><a href="">Programação I</a>, <a href="">Projeto Integrador II</a></td>
+    <td><a href="./src/pages/corpo-docente.md/#FLM">Fábio Longo de Moura</a></td>
+    <td><a href="./src/pages/ementa.md/#PI">Programação I</a>, <a href="./src/pages/ementa.md/#PJII">Projeto Integrador II</a></td>
   </tr>
 <tr>
-    <td><a href="">Kennedy Ferreira Araújo</a></td>
-    <td><a href="">Desenvolvimento web I</a></td>
+    <td><a href="./src/pages/corpo-docente.md/#KFA">Kennedy Ferreira Araújo</a></td>
+    <td><a href="./src/pages/ementa.md/#DWI">Desenvolvimento web I</a></td>
   </tr>
 <tr>
-    <td><a href="">Marco André Lopes Mendes</a></td>
-    <td><a href="">Desenvolvimento web III</a></td>
+    <td><a href="./src/pages/corpo-docente.md/#MALM">Marco André Lopes Mendes</a></td>
+    <td><a href="./src/pages/ementa.md/#DWIII">Desenvolvimento web III</a></td>
   </tr>
 <tr>
 <tr>
-    <td><a href="">Marco Antonio Torrez Rojas</a></td>
-    <td><a href="">Projetos de Software</a></td>
+    <td><a href="./src/pages/corpo-docente.md/#MATR">Marco Antonio Torrez Rojas</a></td>
+    <td><a href="./src/pages/ementa.md/#PS">Projetos de Software</a></td>
   </tr>
 <tr>
-    <td><a href="">Mehran Misaghi</a></td>
-    <td><a href="">Projeto Integrador I</a></td>
+    <td><a href="./src/pages/corpo-docente.md/#MM">Mehran Misaghi</a></td>
+    <td><a href="./src/pages/ementa.md/#PJI">Projeto Integrador I</a></td>
   </tr>
 <tr>
-    <td><a href="">Naylor Garcia Bachiega</a></td>
-    <td><a href="">Banco de dados</a></td>
+    <td><a href="./src/pages/corpo-docente.md/#NB">Naylor Garcia Bachiega</a></td>
+    <td><a href="./src/pages/ementa.md/#DB">Banco de dados</a></td>
   </tr>
     </table>
 </section>
@@ -128,6 +131,11 @@
 <p style="text-align: justify">A página do ingresso é para aqueles que precisam de auxílio ou querem saber como ingressar no Instituto Federal num curso de ensino médio integrado.</p>
 <p style="text-align: justify">Você pode encontrar mais sobre <a href="./src/pages/ingresso.md">aqui!</a></p>
 <p style="text-align: center">voltar ao <a href="#topo">topo</a></p>
+</section>
+<section id="calendario">
+  <h2 style="text-align: center">Calendário</h2>
+  <p style="text-align: justify">voce pode sabe mais sobre o calendário academico, clicando <a href="https://public.tableau.com/app/profile/ifc.proen/viz/CalendrioAcadmico2024/Calendrio?publish=yes">aqui</a></p>
+  <p style="text-align: center">voltar ao <a href="#topo">topo</a></p>
 </section>
 <hr>
 <section id="eventos">

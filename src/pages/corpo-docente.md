@@ -1,7 +1,7 @@
 # Quadro Docente Técnico em Informática para Internet
 
 ## Adamo Dal Berto
-<section style="display: flex; justify-content: space-between; gap: 20px">
+<section style="display: flex; justify-content: space-between; gap: 20px" id="ADB">
 <div>
 
 🧑‍🎓 **Graduação**: bacharelado em Informática  
@@ -20,7 +20,7 @@
 
 ## Daniel dos Santos Júnior
 <section style="display: flex; justify-content: space-between; gap: 20px">
-<div>
+<div id="DSJ">
 
 🧑‍🎓 **Graduação**: Bacharel em Ciência da Computação  
 📕 **Última Formação**: Mestre em Ciência da Computação  
@@ -38,8 +38,8 @@
 </section>
 
 ## Eduardo da Silva
-<section style="display: flex; justify-content: space-between; gap: 20px">
-<div>
+<section style="display: flex; justify-content: space-between; gap: 20px" id="ES">
+<div >
 
 🧑‍🎓 **Graduação**: Bacharelado em Ciência da Computação  
 📕 **Última Formação**: doutorado em Ciência da Computação  
@@ -58,8 +58,8 @@
 </section>
 
 ## Fábio Longo de Moura
-<section style="display: flex; justify-content: space-between; gap: 20px">
-<div>
+<section style="display: flex; justify-content: space-between; gap: 20px" id="FLM">
+<div >
 
 🧑‍🎓 **Graduação**: bacharelado em Sistema da Informação  
 📕 **Última Formação**: mestrado em Sistemas de Informação  
@@ -78,7 +78,7 @@
 </section>
 
 ## Kennedy Ferreira Araújo
-<section style="display: flex; justify-content: space-between; gap: 20px">
+<section style="display: flex; justify-content: space-between; gap: 20px" id="KFA">
 <div>
 
 🧑‍🎓 **Graduação**: Bacharelado em Sistema da Informação  
@@ -97,7 +97,7 @@
 </section>
 
 ## Marco André Lopes Mendes
-<section style="display: flex; justify-content: space-between; gap: 20px">
+<section style="display: flex; justify-content: space-between; gap: 20px" id="MALM">
 <div>
 
 🧑‍🎓 **Graduação**: Tecnologia Em Processamento de Dados  
@@ -117,7 +117,7 @@
 </section>
 
 ## Marco Antonio Torrez Rojas
-<section style="display: flex; justify-content: space-between; gap: 20px">
+<section style="display: flex; justify-content: space-between; gap: 20px" id="MATR">
 <div>
 
 🧑‍🎓 **Graduação**: Graduação em Matemática (Bacharelado e Licenciatura) e Análise e Desenvolvimento de Sistemas  
@@ -137,7 +137,7 @@
 
 
 ## Mehran Misaghi
-<section style="display: flex; justify-content: space-between; gap: 20px">
+<section style="display: flex; justify-content: space-between; gap: 20px" id="MM">
 <div>
 
 🧑‍🎓 **Graduação**: bacharelado em Análise de Sistemas  
@@ -156,8 +156,8 @@
 
 </section>
 
-## Naylor Bachiega
-<section style="display: flex;justify-content: space-between; gap: 20px">
+## Naylor Garcia Bachiega
+<section style="display: flex;justify-content: space-between; gap: 20px" id="NB">
 <div>
 
 🧑‍🎓 **Graduação**: doutorado/mestrado em ciência da computação  

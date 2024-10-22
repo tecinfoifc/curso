@@ -1,6 +1,6 @@
 <h1 style="text-align: center" id="topo">PPC Técnico em Informática para Internet </h1>
 <div style="display: flex; justify-content: center">
-    <a style="color: white; background-color: purple; padding: 5px" href="https://hackmd.io/MKPEVuxUSqCx7gIWZ7VfUw">Voltar ao início</a>
+    <a style="color: white; background-color: purple; padding: 5px" href="../../README.md">Voltar ao início</a>
 </div>
 <h3>Navegação</h3>
 <ul>
@@ -11,15 +11,10 @@
             <li><a href="#matriz">Matriz Curricular Obrigatória</a></li>
         </ul>
     </li>
-    <li><a href="">Disciplinas Optativas</a>
-        <ul>
-            <li><a href="">Matriz Curricular Optativas</a></li>
-        </ul>
-    </li>
-<li><a href="">Ementas</a></li>
-<li><a href="">Servidores e Infraentrutura</a></li>
-<li><a href="">Regulamento TC</a></li>
-<li><a href="">Portarias</a></li>
+<li><a href="#ementas">Ementas</a></li>
+<li><a href="#servidores">Servidores e Infraentrutura</a></li>
+<li><a href="#regulamento">Regulamento TC</a></li>
+<li><a href="#portarias">Portarias</a></li>
 </ul>
 <hr>
 <h2 style="text-align: center" id="apresentacao">
@@ -118,23 +113,14 @@
     </tr>
 </table>
 </div>
-<div style="display: flex; justify-content: center">
-    <a  href="">mais informações sobre as disciplinas obrigatórias</a>
-</div>
-<p style="text-align: center">
-    voltar ao <a href="#topo">topo</a>
-</p>
-<hr>
-<h2 style="text-align: center">
+<h2 style="text-align: center" id='ementas'>
     Ementas
 </h2>
 <p>
-    As ementas obrigatórias estão disponíveis em <a href="">Ementas Obrigatórias</a>
-
-As ementas optativas estão disponíveis em <a href="">Ementas Optativas</a>
+    A ementa esta disponivel em <a href="./ementa.md">Ementas</a>
 </p>
 <hr>
-<h2 style="text-align: center">
+<h2 style="text-align: center"  id='servidores'>
     Servidores e infraestrutura
 </h2>
 <p>
@@ -144,7 +130,7 @@ As ementas optativas estão disponíveis em <a href="">Ementas Optativas</a>
     voltar ao <a href="#topo">topo</a>
 </p>
 <hr>
-<h2 style="text-align: center">
+<h2 style="text-align: center" id='regulamento'>
     Regulamento TC
 </h2>
 <p>
@@ -154,7 +140,7 @@ As ementas optativas estão disponíveis em <a href="">Ementas Optativas</a>
     voltar ao <a href="#topo">topo</a>
 </p>
 <hr>
-<h2 style="text-align: center">Portarias</h2>
+<h2 style="text-align: center" id="portarias">Portarias</h2>
 <p>
     O link para o pdf dos servidores e infraestrutura pode ser encontrado <a href="">aqui!</a>
 </p>
