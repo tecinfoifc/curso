@@ -151,7 +151,7 @@
 </div>
 
 <div>
-    <img src="http://servicosweb.cnpq.br/wspessoa/servletrecuperafoto?tipo=1&id=K4701151P7" width="150">
+    <img src="http://servicosweb.cnpq.br/wspessoa/servletrecuperafoto?tipo=1&id=K4701151P7" align="right" width="150">
 </div>
 
 </section>
