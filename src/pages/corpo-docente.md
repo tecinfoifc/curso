@@ -10,9 +10,11 @@
 📧 **Email**: <a href="mailto:adamo.dalberto@ifc.edu.br">adamo.dalberto@ifc.edu.br</a>  
 📚 **Áreas de pesquisa**: Software Básico, Redes de Computadores, Segurança em Redes de computadores, serviços de redes de computadores, plataformas de hardware abertas, Internet das Coisas - IoT, processos ensino-aprendizagem, e agricultura e pecuária de precisão.  
 📌 **Disciplinas que ministra**: Redes de Computadores  
+
 [![Lattes](../files/lattes.svg)](http://lattes.cnpq.br/8484066168845222) 
 </div>
 </section>
+
 <br/>
 ## Daniel dos Santos Júnior
 <section style="display: flex; justify-content: space-between; gap: 20px">
@@ -64,6 +66,7 @@
 </section>
 
 <br/>
+
 ## Kennedy Ferreira Araújo
 <section style="display: flex; justify-content: space-between; gap: 20px" id="KFA">
 <img src="http://servicosweb.cnpq.br/wspessoa/servletrecuperafoto?tipo=1&id=K8715398H6" align="right" width="150">
@@ -80,6 +83,7 @@
 </section>
 
 <br/>
+
 ## Maico Joao Trombelli
 
 <img src="https://servicosweb.cnpq.br/wspessoa/servletrecuperafoto?tipo=1&id=K8241876J3" width="128" alt="Foto do docente" align="right"/>
@@ -94,6 +98,7 @@
 
 
 <br/>
+
 ## Marco André Lopes Mendes
 <section style="display: flex; justify-content: space-between; gap: 20px" id="MALM">
 <img src="http://servicosweb.cnpq.br/wspessoa/servletrecuperafoto?tipo=1&id=K4706940T1" align="right" width="150">
