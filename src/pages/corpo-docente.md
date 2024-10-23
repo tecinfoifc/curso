@@ -76,6 +76,19 @@
 </div>
 </section>
 
+## Maico Joao Trombelli
+
+<img src="https://servicosweb.cnpq.br/wspessoa/servletrecuperafoto?tipo=1&id=K8241876J3" width="128" alt="Foto do docente" align="right"/>
+
+:mortar_board: Graduação: Bacharelado em Sistema da Informação  
+:closed_book: Última Formação: Mestrado em tecnologias emergentes em educação
+:email: E-mail: [kennedy.araujo@ifc.edu.br](mailto:kennedy.araujo@ifc.edu.br)  
+:books: Áreas de pesquisa: redes de computadores, segurança de sistemas, sistemas de informação, arquitetura de sistemas de computação
+:pushpin: Disciplinas que ministra: Desenvolvimento Web I  
+
+[![Lattes](../files/lattes.svg)](http://lattes.cnpq.br/8825160109933726) 
+
+
 ## Marco André Lopes Mendes
 <section style="display: flex; justify-content: space-between; gap: 20px" id="MALM">
 <img src="http://servicosweb.cnpq.br/wspessoa/servletrecuperafoto?tipo=1&id=K4706940T1" align="right" width="150">
