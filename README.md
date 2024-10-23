@@ -23,10 +23,10 @@
 <nav>
 <ul>
     <li>
-        <a href="#about">sobre o curso</a>
+        <a href="#about">Sobre o curso</a>
     </li>
     <li>
-        <a href="#projetos">projetos</a>
+        <a href="#projetos">Projetos</a>
     </li>
     <li>
         <a href="#PPC">PCC</a>
