@@ -3,22 +3,6 @@
 <h2 style="text-align: center">Instuto Federal - Campus Araquari </h2>
 <h3 style="text-align: center">Redes sociais</h3>
 
-<div style="display: flex; justify-content: center; gap: 20px" >
-     <a href="https://www.instagram.com/ifc.oficial.araquari/" style="text-decoration: none; color: black">
-     <div style="display: flex; justify-content: center; align-items: center; gap: 5px">
-        <img style="width: 25px; height: 25px" src="https://www.clipartmax.com/png/full/25-256843_instagram-logo-[new]-vector-eps-free-download-logo-instagram-logo-vector.png"></img>
-    <p style="margin-top: 15px">instagram</p>
-    </div> 
-    <a/>
-    <a href="https://github.com/tecinfoifc" style="text-decoration: none; color: black"><div style="display: flex; justify-content: center; align-items; ">
-        <img src="https://pngimg.com/uploads/github/github_PNG40.png" style="width: 30px; height: 30px; margin-top: 15px"> 
-       <p style="margin-top: 14px">github</p> 
-    </div>
-</a>
-</div>
-
-
-
 <div>
      <a href="https://www.instagram.com/ifc.oficial.araquari/" style="text-decoration: none; color: black">
         <img style="width: 25px; height: 25px" src="https://www.clipartmax.com/png/full/25-256843_instagram-logo-[new]-vector-eps-free-download-logo-instagram-logo-vector.png">
