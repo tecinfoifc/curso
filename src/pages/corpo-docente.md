@@ -113,8 +113,8 @@
 <img src="http://servicosweb.cnpq.br/wspessoa/servletrecuperafoto?tipo=1&id=K4701151P7" align="right" width="150">
 <div>
 
-🧑‍🎓 **Graduação**: Bacharel em Informática, Análise de Sistemas 
-📕 **Última Formação**: Doutorado em Engenharia Elétrica 
+🧑‍🎓 **Graduação**: Bacharel em Informática, Análise de Sistemas  
+📕 **Última Formação**: Doutorado em Engenharia Elétrica  
 📧 **Email**: <a href="mailto:mehran.misaghi@ifc.edu.br">mehran.misaghi@ifc.edu.br</a>  
 📚 **Áreas de pesquisa**: Gestão de segurança da informação, Criptografia, Desempenho de sistemas computacionais, Pensamento enxuto aplicado a TI, Governança de TI, Programação Neurolinguística aplicada a informática, Mentoria e coaching  
 📌 **Disciplinas que ministra**: Projeto integrador I  
@@ -129,7 +129,7 @@
 <img src="http://servicosweb.cnpq.br/wspessoa/servletrecuperafoto?tipo=1&amp;id=K4563009U6" align="right" width="150">
 <div>
 
-🧑‍🎓 **Graduação**:  Graduação em Tecnologia em Processamento de Dados (Licenciatura e Tecnólogo)
+🧑‍🎓 **Graduação**:  Graduação em Tecnologia em Processamento de Dados (Licenciatura e Tecnólogo)  
 📕 **Última Formação**: Doutorado em Ciências da Computação e Matemática Computacional 
 📧 **Email**: [naylor.bachiega@ifc.edu.br](mailto:naylor.bachiega@ifc.edu.br)  
 📚 **Áreas de pesquisa**: Servidores Linux, administração de redes, programação paralela e cloud computing (DevOps)  
