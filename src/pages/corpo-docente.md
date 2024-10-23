@@ -1,4 +1,4 @@
-# Quadro Docente Técnico em Informática para Internet
+# Quadro Docente - Área Técnica
 
 ## Adamo Dal Berto
 <section style="display: flex; justify-content: space-between; gap: 20px" id="ADB">
