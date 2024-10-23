@@ -37,7 +37,7 @@
 🧑‍🎓 **Graduação**: Bacharelado em Ciência da Computação  
 📕 **Última Formação**: Doutorado em Ciência da Computação  
 📧 **Email**: <a href="mailto:eduardo.silva@ifc.edu.br">eduardo.silva@ifc.edu.br</a>  
-📚 **Áreas de pesquisa**: Desenvolvimento de sistemas
+📚 **Áreas de pesquisa**: Desenvolvimento de sistemas  
 📌 **Disciplinas que ministra**: Desenvolvimento web II, Desenvolvimento em dispositivos móveis  
 
 [![Lattes](../files/lattes.svg)](http://lattes.cnpq.br/5027650522905837) 
@@ -67,7 +67,7 @@
 <div>
 
 🧑‍🎓 **Graduação**: Bacharelado em Sistema da Informação  
-📕 **Última Formação**: Mestrado em Tecnologias Industriais
+📕 **Última Formação**: Mestrado em Tecnologias Industriais  
 📧 **Email**: <a href="mailto:kennedy.araujo@ifc.edu.br">kennedy.araujo@ifc.edu.br</a>  
 📚 **Áreas de pesquisa**: Criação de aplicações web, Pensamento Computacional
 📌 **Disciplinas que ministra**: Desenvolvimento web I  
@@ -130,7 +130,7 @@
 <div>
 
 🧑‍🎓 **Graduação**:  Graduação em Tecnologia em Processamento de Dados (Licenciatura e Tecnólogo)  
-📕 **Última Formação**: Doutorado em Ciências da Computação e Matemática Computacional 
+📕 **Última Formação**: Doutorado em Ciências da Computação e Matemática Computacional  
 📧 **Email**: [naylor.bachiega@ifc.edu.br](mailto:naylor.bachiega@ifc.edu.br)  
 📚 **Áreas de pesquisa**: Servidores Linux, administração de redes, programação paralela e cloud computing (DevOps)  
 📌 **Disciplinas que ministra**: Banco de dados
