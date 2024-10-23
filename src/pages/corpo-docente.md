@@ -69,7 +69,7 @@
 🧑‍🎓 **Graduação**: Bacharelado em Sistema da Informação  
 📕 **Última Formação**: Mestrado em Tecnologias Industriais  
 📧 **Email**: <a href="mailto:kennedy.araujo@ifc.edu.br">kennedy.araujo@ifc.edu.br</a>  
-📚 **Áreas de pesquisa**: Criação de aplicações web, Pensamento Computacional
+📚 **Áreas de pesquisa**: Criação de aplicações web, Pensamento Computacional  
 📌 **Disciplinas que ministra**: Desenvolvimento web I  
 
 [![Lattes](../files/lattes.svg)](http://lattes.cnpq.br/9669258330557293) 
