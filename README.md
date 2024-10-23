@@ -19,11 +19,11 @@
 
 
 
-<div style="display: flex; justify-content: center; gap: 20px" >
+<div>
      <a href="https://www.instagram.com/ifc.oficial.araquari/" style="text-decoration: none; color: black">
         <img style="width: 25px; height: 25px" src="https://www.clipartmax.com/png/full/25-256843_instagram-logo-[new]-vector-eps-free-download-logo-instagram-logo-vector.png">
     <a/>
-    <a href="https://github.com/tecinfoifc" style="text-decoration: none; color: black"><div style="display: flex; justify-content: center; align-items; ">
+    <a href="https://github.com/tecinfoifc" style="text-decoration: none; color: black">
         <img src="https://pngimg.com/uploads/github/github_PNG40.png" style="width: 30px; height: 30px; margin-top: 15px"> 
 </a>
 </div>
