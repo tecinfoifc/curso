@@ -16,6 +16,7 @@
 </section>
 
 <br/>
+
 ## Daniel dos Santos Júnior
 <section style="display: flex; justify-content: space-between; gap: 20px">
 <img src="http://servicosweb.cnpq.br/wspessoa/servletrecuperafoto?tipo=1&id=K4711625Z6" align="right" width="150">
@@ -32,6 +33,7 @@
 </section>
 
 <br/>
+
 ## Eduardo da Silva
 <section style="display: flex; justify-content: space-between; gap: 20px" id="ES">
 <img src="http://servicosweb.cnpq.br/wspessoa/servletrecuperafoto?tipo=1&id=K4756577H3" align="right" width="150">
@@ -49,6 +51,23 @@
 </section>
 
 <br/>
+
+
+## Emerson Rivelino Cidral
+
+<img src="https://servicosweb.cnpq.br/wspessoa/servletrecuperafoto?tipo=1&id=K4131653Z5" width="150" alt="Foto do docente" align="right"/>
+
+:mortar_board: Graduação: Graduação em Informática  
+:closed_book: Última Formação: Doutorado em andamento em Administração  
+:email: E-mail: [emerson.cidral@ifc.edu.br](emerson.cidral@ifc.edu.br)  
+:books: Áreas de pesquisa: uso de Ambientes Virtuais de Aprendizagem, Metodologias e Implementação da Rede e-Tec Brasil, 
+Marketing Digital  
+:pushpin: Disciplinas que ministra: Desenvolvimento Web I  
+
+[![Lattes](../files/lattes.svg)](http://lattes.cnpq.br/3139686759640067) 
+
+</br>
+
 ## Fábio Longo de Moura
 <section style="display: flex; justify-content: space-between; gap: 20px" id="FLM">
 <img src="http://servicosweb.cnpq.br/wspessoa/servletrecuperafoto?tipo=1&id=K4444101J8" align="right" width="150">
@@ -86,7 +105,7 @@
 
 ## Maico Joao Trombelli
 
-<img src="https://servicosweb.cnpq.br/wspessoa/servletrecuperafoto?tipo=1&id=K8241876J3" width="128" alt="Foto do docente" align="right"/>
+<img src="https://servicosweb.cnpq.br/wspessoa/servletrecuperafoto?tipo=1&id=K8241876J3" width="150" alt="Foto do docente" align="right"/>
 
 :mortar_board: Graduação: Bacharelado em Sistema da Informação  
 :closed_book: Última Formação: Mestrado em tecnologias emergentes em educação  
@@ -115,6 +134,9 @@
 </div>
 </section>
 
+<br/>
+
+
 ## Marco Antonio Torrez Rojas
 <section style="display: flex; justify-content: space-between; gap: 20px" id="MATR">
 <img src="https://media.licdn.com/dms/image/v2/C5603AQH90NqOpDvy4Q/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1516521557239?e=1732752000&v=beta&t=qUTwHtcMejtRntgB3M4Ge4lywv_Fn8QgC6zbHcUSr6A" align="right" width="150">
@@ -129,6 +151,8 @@
 [![Lattes](../files/lattes.svg)](http://lattes.cnpq.br/7332212563888239) 
 </div>
 </section>
+
+<br/>
 
 
 ## Mehran Misaghi
@@ -146,6 +170,10 @@
 [![GitHub](../files/github.svg)](https://github.com/mmisaghi)
 </div>
 </section>
+
+
+<br/>
+
 
 ## Naylor Garcia Bachiega
 <section style="display: flex;justify-content: space-between; gap: 20px" id="NB">
