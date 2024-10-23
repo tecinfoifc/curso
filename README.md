@@ -1,7 +1,7 @@
 <section id="topo">
 <h1 style="text-align: center"> Técnico em Informática para Internet </h1>
 <h2 style="text-align: center">Instuto Federal - Campus Araquari </h2>
-<h3 style="text-align: center">redes sociais</h3>
+<h3 style="text-align: center">Redes sociais</h3>
 
 <div style="display: flex; justify-content: center; gap: 20px" >
      <a href="https://www.instagram.com/ifc.oficial.araquari/" style="text-decoration: none; color: black">
@@ -16,6 +16,19 @@
     </div>
 </a>
 </div>
+
+
+
+<div style="display: flex; justify-content: center; gap: 20px" >
+     <a href="https://www.instagram.com/ifc.oficial.araquari/" style="text-decoration: none; color: black">
+        <img style="width: 25px; height: 25px" src="https://www.clipartmax.com/png/full/25-256843_instagram-logo-[new]-vector-eps-free-download-logo-instagram-logo-vector.png">
+    <a/>
+    <a href="https://github.com/tecinfoifc" style="text-decoration: none; color: black"><div style="display: flex; justify-content: center; align-items; ">
+        <img src="https://pngimg.com/uploads/github/github_PNG40.png" style="width: 30px; height: 30px; margin-top: 15px"> 
+</a>
+</div>
+
+         
 </section>
 <hr>
 <section id="nav">
